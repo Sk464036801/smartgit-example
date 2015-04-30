@@ -10,6 +10,8 @@ public class SmartBasicFunction {
 
         System.out.println("local Repository eidt, example merget function. XXX");
 
+        System.out.println("local Repository eidt, example reset function. commit 1");
+
     }
 
 }
