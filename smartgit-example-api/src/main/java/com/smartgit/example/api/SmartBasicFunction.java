@@ -20,6 +20,8 @@ public class SmartBasicFunction {
 
         System.out.println("local Repository eidt, example multy branch rebase function. commit 1");
 
+        System.out.println("local Repository eidt, example multy branch rebase function. commit 2");
+
     }
 
 }
