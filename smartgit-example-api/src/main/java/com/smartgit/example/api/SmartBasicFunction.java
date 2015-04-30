@@ -8,6 +8,8 @@ public class SmartBasicFunction {
     public static void main(String[] args) {
 
         System.out.println("Basic Function discard, remove, delete example.");
+        
+        System.out.println("Remote Repository edit and commmit , example merge function.");
 
     }
 
