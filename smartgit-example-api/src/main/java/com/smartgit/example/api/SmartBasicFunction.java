@@ -12,6 +12,8 @@ public class SmartBasicFunction {
 
         System.out.println("local Repository eidt, example reset function. commit 1");
 
+        System.out.println("local Repository eidt, multi commit ,example merge and cherry-pick function. commit 1");
+
     }
 
 }
