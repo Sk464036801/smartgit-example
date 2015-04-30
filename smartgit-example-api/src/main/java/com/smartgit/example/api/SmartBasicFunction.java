@@ -16,6 +16,8 @@ public class SmartBasicFunction {
 
         System.out.println("local Repository eidt, example multy branch merge and cherry-pick function. commit 2");
 
+        System.out.println("local Repository eidt, example multy branch merge and cherry-pick function. commit 3");
+
     }
 
 }
