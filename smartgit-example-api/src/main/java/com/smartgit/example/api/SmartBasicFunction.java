@@ -6,6 +6,7 @@ package com.smartgit.example.api;
 public class SmartBasicFunction {
 
     public static void main(String[] args) {
+        System.out.println("<----example----->local Repository eidt, example merget function.");
         System.out.println("Remote Repository edit and commmit , example merge function.");
 
         System.out.println("local Repository eidt, example merget function.");
